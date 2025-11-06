@@ -1,4 +1,4 @@
-# 🧮🖥️ KAJY - Calculatrice Profesionnelle
+# 🧮 KAJY - Calculatrice Profesionnelle
 
 🌐 Calculatrice web statique multiplateforme, simple et élégante.
 
