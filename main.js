@@ -1,7 +1,9 @@
 /**
+ * Project de Programmation événementielle
  * KAJY - Calculatrice Professionnelle
  * Version 1.0
  * Développé avec soin et précision
+ *
  */
 
 // ===== VARIABLES GLOBALES =====
