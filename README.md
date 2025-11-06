@@ -1,9 +1,9 @@
-# 🧮🖥️ Kajy - Calculatrice Profesionnelle
+# 🧮🖥️ KAJY - Calculatrice Profesionnelle
 
 🌐 Calculatrice web statique multiplateforme, simple et élégante.
 
 ## 📖 Description
-Kajy est une calculatrice web développée avec **HTML, CSS et JavaScript**.  
+KAJY est une calculatrice web développée avec **HTML, CSS et JavaScript**.  
 Elle offre les fonctionnalités de base d'une calculatrice avec une interface utilisateur intuitive.  
 
 Vous pouvez accéder à la démo en ligne ici : [Demo-Kajy](https://kajy.vercel.app/)
