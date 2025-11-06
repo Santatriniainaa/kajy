@@ -19,7 +19,7 @@ Vous pouvez accéder à la démo en ligne ici : [Demo-Kajy](https://kajy.vercel.
 - **CSS3** - [Documentation](https://developer.mozilla.org/fr/docs/Web/CSS)
 - **JavaScript** - [Documentation](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
-## 🧩 Framework
+## 🧩 Frameworks
 - **Bootstrap** - [Documentation](https://getbootstrap.com/docs/)
 - **Font Awesome** - [Documentation](https://fontawesome.com/docs)
 
