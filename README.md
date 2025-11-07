@@ -6,7 +6,9 @@
 KAJY est une calculatrice web développée avec **HTML, CSS et JavaScript**.  
 Elle offre les fonctionnalités de base d'une calculatrice avec une interface utilisateur intuitive.  
 
-Vous pouvez accéder à la démo en ligne ici : [Demo-Kajy](https://kajy.vercel.app/)
+Vous pouvez accéder à la démo en ligne ici : 
+-  [Demo-Kajy-vercel](https://kajy.vercel.app/)
+-  [Demo-Kajy-Github](https://santatriniainaa.github.io/kajy/)
 
 ## ⚡ Fonctionnalités
 - ➕ Opérations mathématiques de base (addition, soustraction, multiplication, division)
