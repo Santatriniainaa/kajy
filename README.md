@@ -52,7 +52,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 - Push vers la branche
 - Ouvrir une Pull Request
 
-## 👤 Developpeurs
+## 👤 Auteurs
 - [Santatriniainaa](https://github.com/Santatriniainaa)
 - FANANTENANA Faly Lovasoa
 
